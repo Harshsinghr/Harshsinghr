@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshsinghr/Harshsinghr/blob/main/HS%20github%20banner.png)
+![logo](https://github.com/Harshsinghr/Harshsinghr/blob/main/HS%20github%20bg.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
 <h3 align="center">A passionate developer enthusiastic in learning new technologies and developing projects</h3>
 
