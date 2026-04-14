@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Doctor Availability and Allocation](https://github.com/Harshsinghr/Doctor-Availability-and-Allocation)
 
-- 🌱 I’m currently learning **Data analysis and statistics**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Python , Competitive Programming**
 
