@@ -3,14 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
-
 <h3 align="center">AI Engineer &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Backend Development</h3>
 
 <h4 align="center"><em>A passionate developer who loves learning new technologies and turning ideas into working projects</em></h4>
 
----
 
-<table>
+<table align="center">
   <tr>
     <td width="62%" valign="middle">
       <h3>👨‍💻 About Me</h3>
@@ -26,9 +24,8 @@
   </tr>
 </table>
 
----
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h3>🎯 Current Focus</h3>
@@ -41,15 +38,14 @@
   </tr>
 </table>
 
----
 
-<table>
+<table align="center">
   <tr>
-    <td colspan="2"><h3>🧰 Tech Stack</h3></td>
+    <td colspan="2" align="center"><h3>🧰 Tech Stack</h3></td>
   </tr>
   <tr>
-    <td width="26%"><b>Languages</b></td>
-    <td>
+    <td width="26%" align="center"><b>Languages</b></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
@@ -59,24 +55,24 @@
     </td>
   </tr>
   <tr>
-    <td><b>AI &amp; Machine Learning</b></td>
-    <td>
+    <td align="center"><b>AI &amp; Machine Learning</b></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Machine%20Learning-2ea44f?style=flat-square" alt="Machine Learning">
       <img src="https://img.shields.io/badge/Computer%20Vision-2ea44f?style=flat-square" alt="Computer Vision">
       <img src="https://img.shields.io/badge/Naive%20Bayes%20%7C%20SVM-2ea44f?style=flat-square" alt="Naive Bayes and SVM">
     </td>
   </tr>
   <tr>
-    <td><b>Generative AI &amp; LLM Engineering</b></td>
-    <td>
+    <td align="center"><b>Generative AI &amp; LLM Engineering</b></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/LLM%20Applications-8957e5?style=flat-square" alt="LLM Applications">
       <img src="https://img.shields.io/badge/OCI%20Generative%20AI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI Generative AI Professional">
       <img src="https://img.shields.io/badge/Agentic%20AI%20(learning)-d29922?style=flat-square" alt="Agentic AI (learning)">
     </td>
   </tr>
   <tr>
-    <td><b>Backend &amp; API Development</b></td>
-    <td>
+    <td align="center"><b>Backend &amp; API Development</b></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
@@ -87,16 +83,16 @@
     </td>
   </tr>
   <tr>
-    <td><b>Data Science &amp; Analytics</b></td>
-    <td>
+    <td align="center"><b>Data Science &amp; Analytics</b></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
       <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
     </td>
   </tr>
   <tr>
-    <td><b>Cloud, DevOps &amp; Tools</b></td>
-    <td>
+    <td align="center"><b>Cloud, DevOps &amp; Tools</b></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure">
       <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -105,9 +101,8 @@
   </tr>
 </table>
 
----
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <h3>🤝 Connect With Me</h3>
@@ -121,21 +116,12 @@
   </tr>
 </table>
 
----
 
-<table>
+<table align="center">
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <h3>📊 GitHub Statistics</h3>
       <img src="https://streak-stats.demolab.com?user=Harshsinghr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Harshsinghr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsinghr&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used languages">
     </td>
   </tr>
 </table>
