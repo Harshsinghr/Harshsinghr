@@ -10,15 +10,15 @@
 
 ---
 
+<img align="right" width="280" src="https://github.com/Harshsinghr/Harshsinghr/raw/main/mghs.gif" alt="Developer coding in front of two monitors">
+
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://github.com/Harshsinghr/Harshsinghr/raw/main/mghs.gif" alt="Developer coding in front of two monitors">
-
 🎓 B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence (2025)<br>
-🏢 AI Engineering Intern at **ProdGen**, a California-based startup<br>
+🏢 AI Engineering Intern at <b>ProdGen</b>, a California-based startup<br>
 🌍 Freelance ML engineer on remote engagements with startups<br>
 🛠️ I like practical AI systems: LLM applications, ML pipelines, and the APIs around them<br>
-🎧 Away from the screen: travelling, music, problem-solving<br>
+🎧 Away from the screen: travelling, music, problem-solving
 
 <br clear="right">
 
