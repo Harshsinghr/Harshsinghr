@@ -10,33 +10,43 @@
 
 ---
 
-<img align="right" width="280" src="https://github.com/Harshsinghr/Harshsinghr/raw/main/mghs.gif" alt="Developer coding in front of two monitors">
-
-## 👨‍💻 About Me
-
-🎓 B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence (2025)<br>
-🏢 AI Engineering Intern at <b>ProdGen</b>, a California-based startup<br>
-🌍 Freelance ML engineer on remote engagements with startups<br>
-🛠️ I like practical AI systems: LLM applications, ML pipelines, and the APIs around them<br>
-🎧 Away from the screen: travelling, music, problem-solving
-
-<br clear="right">
-
----
-
-## 🎯 Current Focus
-
-🤖 Building AI-powered applications<br>
-🧠 Learning **Agentic AI** and LLM-based systems<br>
-☁️ Getting deeper into cloud platforms<br>
-🌱 Exploring open-source projects and emerging technologies<br>
-💼 Open to AI/ML internships and freelance work<br>
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <h3>👨‍💻 About Me</h3>
+      🎓 B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence (2025)<br>
+      🏢 AI Engineering Intern at <b>ProdGen</b>, a California-based startup<br>
+      🌍 Freelance ML engineer on remote engagements with startups<br>
+      🛠️ I like practical AI systems: LLM applications, ML pipelines, and the APIs around them<br>
+      🎧 Away from the screen: travelling, music, problem-solving
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://github.com/Harshsinghr/Harshsinghr/raw/main/mghs.gif" width="300" alt="Developer coding in front of two monitors">
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 🧰 Tech Stack
 
 <table>
+  <tr>
+    <td>
+      <h3>🎯 Current Focus</h3>
+      🤖 Building AI-powered applications<br>
+      🧠 Learning <b>Agentic AI</b> and LLM-based systems<br>
+      ☁️ Getting deeper into cloud platforms<br>
+      🌱 Exploring open-source projects and emerging technologies<br>
+      💼 Open to AI/ML internships and freelance work
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td colspan="2"><h3>🧰 Tech Stack</h3></td>
+  </tr>
   <tr>
     <td width="26%"><b>Languages</b></td>
     <td>
@@ -97,26 +107,29 @@
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://harshsinghr.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/harsh-singh27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:31608csai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.kaggle.com/thehasmukharshsingh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://leetcode.com/u/harsh_singh27/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.codechef.com/users/harshsingh27"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <h3>🤝 Connect With Me</h3>
+      <a href="https://harshsinghr.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+      <a href="https://www.linkedin.com/in/harsh-singh27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="mailto:31608csai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+      <a href="https://www.kaggle.com/thehasmukharshsingh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+      <a href="https://leetcode.com/u/harsh_singh27/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+      <a href="https://www.codechef.com/users/harshsingh27"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshsinghr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-</p>
-
-<table align="center">
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>📊 GitHub Statistics</h3>
+      <img src="https://streak-stats.demolab.com?user=Harshsinghr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Harshsinghr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics">
