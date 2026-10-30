@@ -6,7 +6,7 @@
 
 <h3 align="center">AI Engineer &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Backend Development</h3>
 
-<h4 align="center"><em>A passionate developer who loves learning new technologies and turning ideas into working projects.</em></h4>
+<h4 align="center"><em>A passionate developer who loves learning new technologies and turning ideas into working projects</em></h4>
 
 ---
 
