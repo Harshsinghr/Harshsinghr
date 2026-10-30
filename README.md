@@ -6,15 +6,7 @@
 
 <h3 align="center">AI Engineer &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; Backend Development</h3>
 
-<p align="center">
-  A passionate developer who loves learning new technologies and turning ideas into working projects.
-</p>
-
-<p align="center">
-  <a href="https://harshsinghr.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-harshsinghr.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/harsh-singh27/"><img src="https://img.shields.io/badge/LinkedIn-harsh--singh27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:31608csai@gmail.com"><img src="https://img.shields.io/badge/Email-31608csai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<h4 align="center"><em>A passionate developer who loves learning new technologies and turning ideas into working projects.</em></h4>
 
 ---
 
@@ -26,7 +18,6 @@
 - 🏢 AI Engineering Intern at **ProdGen**, a California-based startup
 - 🌍 Freelance ML engineer on remote engagements with startups
 - 🛠️ I like practical AI systems: LLM applications, ML pipelines, and the APIs around them
-- 🤝 Interested in open-source collaboration, developer communities, emerging tech, and building in public
 - 🎧 Away from the screen: travelling, music, problem-solving
 
 <br clear="right">
@@ -109,14 +100,12 @@
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://harshsinghr.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/harsh-singh27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:31608csai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.kaggle.com/thehasmukharshsingh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://leetcode.com/u/harsh_singh27/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://codeforces.com/profile/harsh_singh27"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://www.codechef.com/users/harshsingh27"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://www.hackerrank.com/profile/ai1b_1520070"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
-  <a href="https://www.geeksforgeeks.org/user/harsh_singh27/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
 ---
